@@ -2,7 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
-## Interesting Part
+## Interesting part
+<p>
+  The function strategicPlay() enables the computer to compete with the human player.
+</p>
+
 ---
 
 ```
